@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+token.json
+data/chroma/
+*.sqlite3
+*.db
+.vscode/
+.idea/
