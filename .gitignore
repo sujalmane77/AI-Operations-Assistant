@@ -8,4 +8,4 @@ data/chroma/
 *.db
 .vscode/
 .idea/
-.credentials.json
+.credentials
